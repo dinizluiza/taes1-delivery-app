@@ -8,3 +8,5 @@ Then
 Cenario 3 exemplo
 ----------
 Cenario 4 exemplo
+----------
+Cenario 5 exemplo
